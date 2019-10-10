@@ -27,5 +27,7 @@ public class CategoryTest {
 
     @Test
     public void getRecipes() {
+
+        System.out.println("get");
     }
 }

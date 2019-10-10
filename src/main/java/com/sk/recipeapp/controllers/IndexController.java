@@ -22,4 +22,8 @@ public class IndexController {
         model.addAttribute("recipes",recipeService.getRecipe());
         return "index";
     }
+
+    public void test(){
+
+    }
 }
